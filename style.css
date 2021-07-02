@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+}
+
+.carousel-content{
+    font-size: 40px;
+    color: yellow;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+#mycarousel img{
+    margin-top:30px;
+    height: 400px;
+}
+#mycarousel{
+    background-color:yellow;
+    height: 500px;
+}
+ul.menu > li {
+    list-style: none;
+    width:33%;
+    display: inline-block;
+}
+section
+> img {
+    width:400px;
+    height: 400px;
+}
+ul{
+    font-size:20px; 
+}
